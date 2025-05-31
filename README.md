@@ -45,8 +45,26 @@ This project outlines changing the name of the computer.<br />
 
 ### Change the computer name to `Server2022`
 <p>
-<img src="https://github.com/user-attachments/assets/b93bab94-25f0-4265-8e80-41d186d8c1a9" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/7a1cc4a2-3c36-42ad-9239-68c2fc315ac6" width="550" alt="Disk Sanitization Steps"/>
 </p>
 
 
+### Apply the settings then restart the machine, the restart will be automatic
+<p>
+<img src="https://github.com/user-attachments/assets/ca742237-953d-4741-b3b8-3361b0fc6a2e" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/f99a8f4b-7720-4f2c-b33d-5a566837a2b4" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/21d216f0-4ade-4000-af45-d43a30a7ab56" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/07315b1f-73c6-4b02-8c34-e77eab055d34" width="550" alt="Disk Sanitization Steps"/>
+</p>
+
+### Verify the changes by right clicking on the Windows Start Menu, then click on System
+<p>
+<img src="https://github.com/user-attachments/assets/9faf7510-3e66-4353-aa2d-79ef2c0d58e0" width="550" alt="Disk Sanitization Steps"/>
+</p>
 
