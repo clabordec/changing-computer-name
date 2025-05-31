@@ -30,6 +30,6 @@ This project outlines changing the name of the computer.<br />
 ## Rename the PC to Server2022
 ### Rigth-click on the Windows Start Menu, then click System
 <p>
-<img src="https://github.com/user-attachments/assets/5da7e367-296d-455e-a5ec-3fa5a9b75862" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/5da7e367-296d-455e-a5ec-3fa5a9b75862" width="350" alt="Disk Sanitization Steps"/>
 </p>
 
