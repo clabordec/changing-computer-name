@@ -33,3 +33,20 @@ This project outlines changing the name of the computer.<br />
 <img src="https://github.com/user-attachments/assets/5da7e367-296d-455e-a5ec-3fa5a9b75862" width="350" alt="Disk Sanitization Steps"/>
 </p>
 
+### Scroll down then click on Rename this PC (advanced)
+<p>
+<img src="https://github.com/user-attachments/assets/0d942ec3-7665-4d27-99d4-47fa9dc3b4eb" width="350" alt="Disk Sanitization Steps"/>
+</p>
+
+### In the Computer Name tab, click on Change to change the name of the PC
+<p>
+<img src="https://github.com/user-attachments/assets/3c59a574-5d4a-4a1c-9ea4-069861b38792" width="350" alt="Disk Sanitization Steps"/>
+</p>
+
+### Change the computer name to `Server2022`
+<p>
+<img src="https://github.com/user-attachments/assets/b93bab94-25f0-4265-8e80-41d186d8c1a9" width="350" alt="Disk Sanitization Steps"/>
+</p>
+
+
+
