@@ -1,6 +1,7 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/3729c9bd-7cff-4dd4-830b-2efd0aee6d51" width="650" alt="Microsoft Active Directory Logo"/>
+<img src="https://github.com/user-attachments/assets/dcbe4b4c-91bd-4252-b8d5-bf7056eb8531" width="650" alt="Microsoft Active Directory Logo"/>
 </p>
+
 
 
 <h1>Changing the name of the Computer</h1>
