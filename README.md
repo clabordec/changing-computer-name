@@ -30,7 +30,7 @@ This project outlines changing the name of the computer.<br />
 <br>
 
 
-<h2>Deployment and Configuration Steps</h2>
+<h1>Actions and Observations</h1>
 
 ## Rename the PC to Server2022
 ### Rigth-click on the Windows Start Menu, then click System
