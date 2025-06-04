@@ -26,6 +26,10 @@ This project outlines changing the name of the computer.<br />
 - Give the following name to the computer:
     - Server2022
 
+
+<br>
+
+
 <h2>Deployment and Configuration Steps</h2>
 
 ## Rename the PC to Server2022
